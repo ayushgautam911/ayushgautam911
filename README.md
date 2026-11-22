@@ -8,6 +8,7 @@ Previously at **Dell Technologies** (integration platforms, order and billing sy
 
 **Projects**
 - [**Periscope**](https://github.com/ayushgautam911/periscope): side-by-side candidate comparison for Indian voters, covering 41,800+ candidates across 31 state elections · [live site](https://periscope-psi.vercel.app) · React, TypeScript, Python
+- [**M3HFIL (Mehfil)**](https://github.com/ayushgautam911/mehfil): platform for community collectives (memberships, events, QR digital passes, chat); I built the CI/CD pipeline and event and pass features · Fastify, TypeScript, PostgreSQL, React Native, Terraform on GCP
 
 **Tech:** Java · Spring Boot · Kafka · RabbitMQ · Scala/Akka · Python · TypeScript/React · AWS · Docker · Kubernetes
 
